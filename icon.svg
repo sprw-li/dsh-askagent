@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="Ask Agent">
+  <rect width="24" height="24" rx="5" fill="#2f7d5b"/>
+  <path d="M6.2 7.2h11.6a1.4 1.4 0 0 1 1.4 1.4v5.1a1.4 1.4 0 0 1-1.4 1.4h-6.1l-3.4 2.7v-2.7H6.2a1.4 1.4 0 0 1-1.4-1.4V8.6a1.4 1.4 0 0 1 1.4-1.4z" fill="none" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/>
+  <circle cx="9.2" cy="11.2" r="1" fill="#fff"/>
+  <circle cx="12" cy="11.2" r="1" fill="#fff"/>
+  <circle cx="14.8" cy="11.2" r="1" fill="#fff"/>
+</svg>

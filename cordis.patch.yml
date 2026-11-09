@@ -1,0 +1,3 @@
+- insert:
+    - id: askagent
+      name: '@local/askagent'
